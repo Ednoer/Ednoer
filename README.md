@@ -21,6 +21,16 @@ I work on modernizing legacy systems, building business-critical modules, and de
 - Led an IoT-based welding monitoring system integrated with SAP for real-time operational visibility.
 - Set up CI/CD pipelines, observability, and internal packages for reuse and security.
 
+### 🚀 Open Source Apps
+
+Free and open source tools I've built and published:
+
+| App | Platform |
+|---|---|
+| [**Notula Data Studio**](https://apps.microsoft.com/detail/9n9scw93tlh5) | Microsoft Store (Windows) |
+| [**Project Pro Tree**](https://marketplace.visualstudio.com/items?itemName=Ednoer.protree) | VS Code extension |
+| [**SQL AI Agent**](https://marketplace.visualstudio.com/items?itemName=Ednoer.sql-ai-agent) | Azure Data Studio extension |
+
 ### 🛠️ Tech Stack
 
 - **Languages & Frameworks:** C# / .NET · Go · TypeScript · Node.js · NestJS · Express · React · Next.js
